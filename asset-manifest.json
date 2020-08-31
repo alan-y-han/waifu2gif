@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waifu2gif/static/css/main.5f361e03.chunk.css",
+    "main.js": "/waifu2gif/static/js/main.50ed3177.chunk.js",
+    "main.js.map": "/waifu2gif/static/js/main.50ed3177.chunk.js.map",
+    "runtime-main.js": "/waifu2gif/static/js/runtime-main.218dadb7.js",
+    "runtime-main.js.map": "/waifu2gif/static/js/runtime-main.218dadb7.js.map",
+    "static/js/2.2e5aa6d5.chunk.js": "/waifu2gif/static/js/2.2e5aa6d5.chunk.js",
+    "static/js/2.2e5aa6d5.chunk.js.map": "/waifu2gif/static/js/2.2e5aa6d5.chunk.js.map",
+    "index.html": "/waifu2gif/index.html",
+    "precache-manifest.28bc4545644512b49583346a5287c3b4.js": "/waifu2gif/precache-manifest.28bc4545644512b49583346a5287c3b4.js",
+    "service-worker.js": "/waifu2gif/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/waifu2gif/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2e5aa6d5.chunk.js.LICENSE.txt": "/waifu2gif/static/js/2.2e5aa6d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.218dadb7.js",
+    "static/js/2.2e5aa6d5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.50ed3177.chunk.js"
+  ]
+}
